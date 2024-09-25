@@ -1,0 +1,22 @@
+.p{
+    color: black;
+    background-color: #FFA7A7;
+    font-size: Verdana;
+    font-weight: 22px;
+}
+
+#first{
+    color: blue;
+    font-size: 36px;
+}
+
+.adjust-font{
+    font-size: 24px;
+}
+
+#last{
+    color: black;
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 800;
+}
