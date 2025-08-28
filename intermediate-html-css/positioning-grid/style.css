@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font: Arial;
+}
+
+.header,
+.sidebar,
+.nav,
+.article,
+.footer{
+    color: white ;
+    font-weight: bold;
+}
+
+.container{
+    display: grid;
+    grid-template: 40px 40px 200px 40px/ 40px 120px;
+}
